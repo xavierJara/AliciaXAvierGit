@@ -17,6 +17,7 @@ public class Xavier_Alicia_practica {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("print a");
+        System.out.println("print b");
     }
     
 }
