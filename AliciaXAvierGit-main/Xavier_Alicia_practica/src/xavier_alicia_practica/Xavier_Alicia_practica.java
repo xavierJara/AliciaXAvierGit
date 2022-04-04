@@ -20,6 +20,7 @@ public class Xavier_Alicia_practica {
         System.out.println("print b");
         System.out.println("print c");
         System.out.println("print d");
+        System.out.println("print e");
     }
     
 }
